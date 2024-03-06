@@ -1,0 +1,24 @@
+Chavda Ashvinsinh
+En:2302031030009
+Btech.IT-3
+
+
+Step to upload assignment on Git hub.
+
+Step 1: create an account on git hub.
+
+Step 2: create an git hub repositories name as 2302031030009. Step 3: create an two folder name is assignment-1 and assignment-2.
+
+Step 4: Download git from website.
+
+Step 5: right click the folder and in dialog box select git bash.
+
+Step 6: git init for incilize folder Step 7: git status for known the status
+
+Step 8: git add-A for incilize folder
+
+Step 9: git status for known the status after add folder in repo..
+
+Step 10: git commit -m "college assignment" for commit folder in github
+
+Step 11: git remote add origin github repositories link Step 12: git push origin master for incilize folder
